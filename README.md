@@ -14,7 +14,7 @@ Meme Sharing app with the functionality of sharing Meme that is being fetched by
 
 It provide the share functionality of the URL of the Meme. 
 
-<img src = "img/share.jpeg" width="50%">
+<img src = "img/sharing.jpeg" width="50%">
 
 
 **Memestic When Next Button is Clicked**
